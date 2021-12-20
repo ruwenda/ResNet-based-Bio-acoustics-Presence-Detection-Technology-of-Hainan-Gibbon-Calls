@@ -21,5 +21,6 @@ step2: run the script evaluation.py in "evaluation" folder.
 you will get the excel file in "BPDnet_Result", that can tell you which ten seconds are there have Hai nan gibbon call.
 
 ## BPDnet structure
+![image]{pict/network1.png}
 
 ## The performance of the BPDnet
