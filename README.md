@@ -9,8 +9,8 @@ link：https://pan.baidu.com/s/10zfY0s2wuFRDbPiomDKIbA
 password：szku 
 
 ## Getting start:
-step1: Download the dataset from: https://doi.org/10.5281/zenodo.3991714.  
-step2: Populate the corresponding Data into the "Data" folder.  
+step1: download the dataset from: https://doi.org/10.5281/zenodo.3991714.  
+step2: move the corresponding Data into the "Data" folder.  
 step3: run the script Extract_Feature.py in "Extract_Feature" to extract the mel spectrogram from traning raw data.  
 step4: run the script trainging to train your own BPDnet model.          
 step5: run the script evaluation.py and Every_Result.py in "evaluation" folder to test you model, you well get classification evaluation results of each test file. 
