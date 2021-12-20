@@ -21,6 +21,13 @@ step2: run the script evaluation.py in "evaluation" folder.
 you will get the excel file in "BPDnet_Result", that can tell you which ten seconds are there have Hai nan gibbon call.   
  
 ## BPDnet structure
-![image]{https://github.com/ruwenda/ResNet-based-Bio-acoustics-Presence-Detection-Technology-of-Hainan-Gibbon-Calls/blob/f8611ece944e2f65eb70a1443c1d1d4bf7891b7a/pict/network1.png}
+![image](https://github.com/ruwenda/ResNet-based-Bio-acoustics-Presence-Detection-Technology-of-Hainan-Gibbon-Calls/blob/master/pict/network1.png)
+![image](https://github.com/ruwenda/ResNet-based-Bio-acoustics-Presence-Detection-Technology-of-Hainan-Gibbon-Calls/blob/master/pict/network2.png)
 
 ## The performance of the BPDnet
+![image](https://github.com/ruwenda/ResNet-based-Bio-acoustics-Presence-Detection-Technology-of-Hainan-Gibbon-Calls/blob/master/pict/res1.png)
+
+## The performance of the augmentation and post-processing
+![image](https://github.com/ruwenda/ResNet-based-Bio-acoustics-Presence-Detection-Technology-of-Hainan-Gibbon-Calls/blob/master/pict/res2.png)
+![image](https://github.com/ruwenda/ResNet-based-Bio-acoustics-Presence-Detection-Technology-of-Hainan-Gibbon-Calls/blob/master/pict/res3.png)
+![image](https://github.com/ruwenda/ResNet-based-Bio-acoustics-Presence-Detection-Technology-of-Hainan-Gibbon-Calls/blob/master/pict/res4.png)
