@@ -27,6 +27,8 @@ you will get the excel file in "BPDnet_Result", that can tell you which ten seco
 ## The performance of the BPDnet
 ![image](https://github.com/ruwenda/ResNet-based-Bio-acoustics-Presence-Detection-Technology-of-Hainan-Gibbon-Calls/blob/master/pict/res1.png)
 
+The baseline paper is: "Automated detection of Hainan gibbon calls for passive acoustic monitoring" (Remote Sensing in Ecology and Conservation).
+
 ## The performance of the augmentation and post-processing
 ![image](https://github.com/ruwenda/ResNet-based-Bio-acoustics-Presence-Detection-Technology-of-Hainan-Gibbon-Calls/blob/master/pict/res2.png)
 ![image](https://github.com/ruwenda/ResNet-based-Bio-acoustics-Presence-Detection-Technology-of-Hainan-Gibbon-Calls/blob/master/pict/res3.png)
