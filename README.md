@@ -10,7 +10,7 @@ password：szku
 
 ## Getting start:
 step1: download the dataset from: https://doi.org/10.5281/zenodo.3991714.  
-step2: move the corresponding Data into the "Data" folder.  
+step2: move the corresponding data into the "Data" folder.  
 step3: run the script Extract_Feature.py in "Extract_Feature" to extract the mel spectrogram from traning raw data.  
 step4: run the script trainging to train your own BPDnet model.          
 step5: run the script evaluation.py and Every_Result.py in "evaluation" folder to test you model, you well get classification evaluation results of each test file. 
@@ -18,7 +18,7 @@ step5: run the script evaluation.py and Every_Result.py in "evaluation" folder t
 if you just want to use our pre-training model to get a detect of Hainan gibbon, please follow this:  
 step1: fill you own 8 hours wav files in 'Data/Raw_Data/Test'.  
 step2: run the script evaluation.py in "evaluation" folder.    
-you will get the excel file in "BPDnet_Result", that can tell you which ten seconds are there have Hai nan gibbon call.   
+you will get the excel file in "BPDnet_Result", that can tell you which ten seconds are there have Hainan gibbon call.   
  
 ## BPDnet structure
 ![image](https://github.com/ruwenda/ResNet-based-Bio-acoustics-Presence-Detection-Technology-of-Hainan-Gibbon-Calls/blob/master/pict/network1.png)
